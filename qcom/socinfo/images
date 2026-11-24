@@ -1,0 +1,12 @@
+0:
+	CRM:		00:BOOT.MXF.2.0-00925.2-WAIPIO-1
+	Variant:	SocWaipioLAA
+	Version:	:crm-ubuntu136
+1:
+	CRM:		01:TZ.XF.5.18-22250-20
+	Variant:	WAPIONAAA
+	Version:	:CRM
+12:
+	CRM:		12:ADSP.HT.5.7-01112-WAIPIO-1
+	Variant:	waipio.adsp.prodQ
+	Version:	:dg02-pool07-kvm36
